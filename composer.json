@@ -1,0 +1,15 @@
+{
+    "name": "learnstew/laravel-lms",
+    "description": "A mobilus learning platform addon for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vaishnavmhetre",
+            "email": "mhetrevaishnav0@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^4.2"
+    }
+}
